@@ -1,0 +1,16 @@
+entry_id,user_id,entry_date,journal_text,sentiment_score,primary_emotion,mood_category,consecutive_low_days,spiral_flag,department,year_of_study
+1,student_001,01-02-2026,"Had a great lecture today, finally understood algorithms. Feeling motivated!",0.85,joy,Positive,0,FALSE,CS,2
+2,student_001,02-02-2026,"Group project meeting went well, but I'm tired from late night coding.",0.45,neutral,Neutral,0,FALSE,CS,2
+3,student_001,03-02-2026,Exam in two days and I haven't started revising properly. So stressed.,-0.65,anxiety,Negative,1,FALSE,CS,2
+4,student_001,04-02-2026,Failed the quiz today. Feel like I'm falling behind everyone.,-0.8,sadness,Negative,2,FALSE,CS,2
+5,student_001,05-02-2026,"Another bad day. Can't focus, everything feels pointless.",-0.75,sadness,Negative,3,FALSE,CS,2
+6,student_001,06-02-2026,"Skipped class, stayed in bed. I know I should reach out but too ashamed.",-0.9,sadness,Negative,4,FALSE,CS,2
+7,student_001,07-02-2026,This is the fifth bad day in a row. Maybe I need real help.,-0.85,fear,Negative,5,TRUE,CS,2
+8,student_002,01-02-2026,"Coffee with friends was fun, laughed a lot.",0.75,joy,Positive,0,FALSE,Arts,1
+9,student_002,02-02-2026,Feeling overwhelmed with assignments piling up.,-0.55,overwhelm,Negative,1,FALSE,Arts,1
+10,student_003,01-02-2026,Got rejected from the internship I wanted. Devastated.,-0.7,sadness,Negative,1,FALSE,Business,3
+11,student_003,02-02-2026,Still down about the internship but went for a run and felt a bit better.,0.2,hope,Neutral,0,FALSE,Business,3
+12,student_004,10-02-2026,Everything is going great — aced the midterms!,0.9,joy,Positive,0,FALSE,Engineering,4
+13,student_005,15-02-2026,Lonely in the dorms. Everyone seems to have friends except me.,-0.6,sadness,Negative,1,FALSE,Humanities,1
+14,student_005,16-02-2026,Same feeling today. Maybe I should try joining a club.,-0.5,anxiety,Negative,2,FALSE,Humanities,1
+15,student_006,20-02-2026,Grateful for my roommate who listened to me vent yesterday.,0.65,gratitude,Positive,0,FALSE,Science,2
